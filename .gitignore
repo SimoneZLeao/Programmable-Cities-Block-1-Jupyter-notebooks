@@ -53,3 +53,6 @@ old/
 # Externally sourced files
 External/
 *.rar
+
+# Assignment Answers
+Answers/
